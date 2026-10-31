@@ -3300,6 +3300,7 @@ input[type="radio"] {
 .schedule-banner h2 {
   color: #403253;
   font-size: 32px;
+  font-weight: 400;
   line-height: 1.2;
   letter-spacing: -0.8px;
 }

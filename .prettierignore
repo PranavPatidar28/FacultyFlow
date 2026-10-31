@@ -1,0 +1,9 @@
+node_modules
+.next
+.vercel
+.local
+src/app/.well-known
+package-lock.json
+solver
+drizzle/meta
+test-results

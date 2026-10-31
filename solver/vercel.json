@@ -1,0 +1,1 @@
+{"functions":{"api/solve.py":{"maxDuration":180,"excludeFiles":"{tests/**,.venv/**,__pycache__/**}"}},"regions":["bom1"]}

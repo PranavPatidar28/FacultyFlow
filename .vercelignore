@@ -1,0 +1,9 @@
+.local/
+.env*
+.neon
+solver/
+tests/
+test-results/
+playwright-report/
+.workflow-data/
+docs/
